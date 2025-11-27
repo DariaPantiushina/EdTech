@@ -7,11 +7,11 @@
 An international EdTech company operates an 8-week online Data Analytics Bootcamp. The course follows an upfront payment model: students pay before the start. Early dropout does not reduce initial revenue but impacts:
 
 - LTV (no upsell to advanced tracks);
-- 
+  
 - NPS (unfinished experience → lower satisfaction);
-- 
+  
 - Brand reputation;
-- 
+  
 - Risk of refunds / negative churn signals;
 
 In June 2025, a new cohort launched.
